@@ -1,0 +1,82 @@
+Column names,Unique values
+I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?,[6. 5. 7. 4. 1. 3. 2.]
+I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?,[5. 7. 4. 6. 2. 3. 1.]
+Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?,[6. 5. 7. 4. 1. 3. 2.]
+I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?,[4. 5. 7. 6. 3. 1. 2.]
+"I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?",[4. 1. 3. 2. 6. 7. 5.]
+"I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?",[6. 3. 1. 4. 2. 5. 7.]
+"I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?",[5. 4. 3. 6. 7. 1. 2.]
+"The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?",[5. 6. 4. 7. 1. 2. 3.]
+EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Fully distrust' 'Tend not to trust' 'Tend to trust'
+ 'Fully trust']"
+"National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?","['Undecided' 'Fully distrust' 'Tend not to trust' 'Tend to trust'
+ 'Fully trust']"
+"Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?","['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully distrust'
+ 'Fully trust']"
+"Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?","['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully distrust'
+ 'Fully trust']"
+National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully distrust'
+ 'Fully trust']"
+Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully trust'
+ 'Fully distrust']"
+Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Fully trust' 'Tend to trust' 'Tend not to trust'
+ 'Fully distrust']"
+Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully distrust'
+ 'Fully trust']"
+"Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?","['Undecided' 'Fully trust' 'Tend not to trust' 'Tend to trust'
+ 'Fully distrust']"
+Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Tend to trust' 'Undecided' 'Tend not to trust' 'Fully trust'
+ 'Fully distrust']"
+Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?,"['Undecided' 'Tend to trust' 'Tend not to trust' 'Fully distrust'
+ 'Fully trust']"
+Unplug electronic devices that are not being used - How often do you perform the following activities?,['Occasionally' 'Often' 'Rarely' 'Always' 'Never' 'Prefer not to say']
+Actively search for products that are more energy efficient - How often do you perform the following activities?,['Often' 'Occasionally' 'Always' 'Rarely' 'Never' 'Prefer not to say']
+Turn off all lights before leaving a room - How often do you perform the following activities?,['Occasionally' 'Often' 'Always' 'Never' 'Prefer not to say' 'Rarely']
+Encourage friends or family to be more energy efficient - How often do you perform the following activities?,['Occasionally' 'Rarely' 'Always' 'Often' 'Never' 'Prefer not to say']
+Consciously participate in carpooling - How often do you perform the following activities?,['Occasionally' 'Rarely' 'Never' 'Always' 'Often' 'Prefer not to say']
+"Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?",['Occasionally' 'Rarely' 'Often' 'Never' 'Always' 'Prefer not to say']
+Facebook - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I do not use this at all'
+ 'I use this to follow energy related information']"
+Instagram - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I use this to follow energy related information'
+ 'I do not use this at all']"
+Twitter - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I do not use this at all'
+ 'I use this to follow energy related information']"
+YouTube - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I use this to follow energy related information'
+ 'I do not use this at all']"
+TikTok - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I do not use this at all'
+ 'I use this to follow energy related information']"
+LinkedIn - Please select the option that best describes your use of social media channels and energy information.,"['I use this but not for energy related information'
+ 'I do not use this at all'
+ 'I use this to follow energy related information']"
+"Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...",['4' '6' '5' '7' '1' '2' '3' 'I do not know']
+"Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...",['2' '6' '4' '7' '5' '1' '3' 'I do not know']
+"Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...",['4' '7' '6' '1' '2' '5' '3' 'I do not know']
+"Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...",['3' '7' '4' '6' '5' '1' 'I do not know' '2']
+"Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...",['3' '7' '4' '5' '6' 'I do not know' '1' '2']
+Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.,['4' '2' '3' '1' '7' 'Prefer not to say' '6' '5']
+I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.,['4' '2' '6' '3' '1' '7' 'Prefer not to say' '5']
+It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.,['6' '3' '1' '4' '2' '5' '7' 'Prefer not to say']
+"When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.",['6' '4' '7' '5' '1' '3' '2' 'Prefer not to say']
+There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.,['4' '2' '5' '3' '7' '1' '6' 'Prefer not to say']
+My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.,['4' '6' '7' '5' '1' '3' '2' 'Prefer not to say']
+I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.,['4' '2' '3' '1' '5' '7' '6' 'Prefer not to say']
+Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.,['6' '4' '3' '5' '2' '7' '1' 'Prefer not to say']
+Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.,['5' '6' '4' '3' '7' '1' '2' 'Prefer not to say']
+I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.,['3' '5' '7' '4' '6' '1' '2' 'Prefer not to say']
+I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.,['4' '5' '3' '6' '7' '2' 'Prefer not to say' '1']
+"Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.",['5' '4' '6' '7' '1' '3' '2' 'Prefer not to say']
+"We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.",['5' '4' '7' '1' '6' '2' 'Prefer not to say' '3']
+The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.,['4' '5' '6' '7' '3' '1' 'Prefer not to say' '2']
+Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.,['6' '5' '7' '4' '3' '1' '2' 'Prefer not to say']
+I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.,['6' '4' '5' '7' '1' '2' '3' 'Prefer not to say']
+I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.,['5' '4' '6' '1' '2' '7' '3' 'Prefer not to say']
+Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.,['4' '6' '7' '5' '1' '3' 'Prefer not to say' '2']
+My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.,['3' '6' '7' '4' '5' '1' 'Prefer not to say' '2']
+Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.,['5' '6' '7' '4' '1' 'Prefer not to say' '3' '2']
+"The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.",['4' '3' '5' '2' '1' '6' '7' 'Prefer not to say']
+Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.,['4' '3' '5' '1' '7' '6' 'Prefer not to say' '2']
