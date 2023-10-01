@@ -1,0 +1,3336 @@
+Cluster 0 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1392	38.95%
+6.0	1143	31.98%
+4.0	479	13.40%
+7.0	209	5.85%
+3.0	182	5.09%
+1.0	85	2.38%
+2.0	84	2.35%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1327	37.13%
+6.0	1005	28.12%
+4.0	526	14.72%
+7.0	246	6.88%
+3.0	242	6.77%
+2.0	184	5.15%
+1.0	44	1.23%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1329	37.19%
+6.0	1043	29.18%
+4.0	532	14.89%
+3.0	273	7.64%
+7.0	218	6.10%
+2.0	123	3.44%
+1.0	56	1.57%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1549	43.34%
+6.0	1123	31.42%
+4.0	374	10.46%
+3.0	213	5.96%
+7.0	202	5.65%
+2.0	77	2.15%
+1.0	36	1.01%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+2.0	953	26.66%
+1.0	572	16.00%
+5.0	531	14.86%
+3.0	513	14.35%
+4.0	480	13.43%
+6.0	387	10.83%
+7.0	138	3.86%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+2.0	1015	28.40%
+4.0	723	20.23%
+3.0	623	17.43%
+1.0	590	16.51%
+5.0	364	10.18%
+6.0	195	5.46%
+7.0	64	1.79%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1216	34.02%
+4.0	947	26.50%
+6.0	592	16.56%
+3.0	429	12.00%
+2.0	211	5.90%
+7.0	120	3.36%
+1.0	59	1.65%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1144	32.01%
+6.0	1030	28.82%
+4.0	672	18.80%
+7.0	394	11.02%
+3.0	190	5.32%
+2.0	111	3.11%
+1.0	33	0.92%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1461	40.88%
+1	828	23.17%
+-1	715	20.01%
+0	413	11.56%
+3	157	4.39%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+1	1339	37.47%
+2	809	22.64%
+-1	745	20.84%
+0	607	16.98%
+3	74	2.07%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+1	1169	32.71%
+2	957	26.78%
+-1	886	24.79%
+0	472	13.21%
+3	90	2.52%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1242	34.75%
+1	940	26.30%
+-1	852	23.84%
+0	415	11.61%
+3	125	3.50%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1149	32.15%
+-1	943	26.39%
+1	905	25.32%
+0	425	11.89%
+3	152	4.25%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1348	37.72%
+-1	815	22.80%
+1	759	21.24%
+0	369	10.32%
+3	283	7.92%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1960	54.84%
+3	722	20.20%
+-1	522	14.61%
+1	268	7.50%
+0	102	2.85%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1279	35.79%
+2	1071	29.97%
+1	850	23.78%
+0	252	7.05%
+3	122	3.41%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1064	29.77%
+1	995	27.84%
+2	908	25.41%
+0	508	14.21%
+3	99	2.77%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1579	44.18%
+-1	1211	33.88%
+1	492	13.77%
+3	178	4.98%
+0	114	3.19%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1217	34.05%
+1	1016	28.43%
+2	869	24.31%
+0	401	11.22%
+3	71	1.99%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+3	1511	42.28%
+4	812	22.72%
+2	714	19.98%
+1	353	9.88%
+0	149	4.17%
+-1	35	0.98%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+3	1621	45.36%
+2	869	24.31%
+4	648	18.13%
+1	337	9.43%
+0	65	1.82%
+-1	34	0.95%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	2146	60.04%
+3	950	26.58%
+2	327	9.15%
+1	94	2.63%
+-1	32	0.90%
+0	25	0.70%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+3	1385	38.75%
+2	873	24.43%
+4	700	19.59%
+1	354	9.90%
+0	199	5.57%
+-1	63	1.76%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+2	974	27.25%
+0	793	22.19%
+3	720	20.15%
+1	629	17.60%
+4	324	9.07%
+-1	134	3.75%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+3	1300	36.37%
+2	868	24.29%
+4	586	16.40%
+1	506	14.16%
+0	248	6.94%
+-1	66	1.85%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	2175	60.86%
+0	780	21.82%
+2	619	17.32%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1851	51.79%
+0	1359	38.02%
+2	364	10.18%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2054	57.47%
+1	1160	32.46%
+2	360	10.07%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	2115	59.18%
+0	795	22.24%
+2	664	18.58%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2298	64.30%
+1	1020	28.54%
+2	256	7.16%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2071	57.95%
+1	1193	33.38%
+2	310	8.67%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	765	21.40%
+6	658	18.41%
+2	603	16.87%
+3	414	11.58%
+4	401	11.22%
+1	365	10.21%
+7	287	8.03%
+-1	81	2.27%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	828	23.17%
+6	638	17.85%
+2	552	15.44%
+4	499	13.96%
+3	437	12.23%
+7	250	6.99%
+1	240	6.72%
+-1	130	3.64%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	751	21.01%
+2	627	17.54%
+6	607	16.98%
+3	447	12.51%
+4	441	12.34%
+1	352	9.85%
+7	265	7.41%
+-1	84	2.35%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	889	24.87%
+6	824	23.06%
+4	519	14.52%
+7	391	10.94%
+3	333	9.32%
+2	253	7.08%
+-1	242	6.77%
+1	123	3.44%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	912	25.52%
+6	830	23.22%
+4	494	13.82%
+7	410	11.47%
+3	330	9.23%
+2	256	7.16%
+-1	251	7.02%
+1	91	2.55%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	1115	31.20%
+1	658	18.41%
+3	454	12.70%
+5	445	12.45%
+6	437	12.23%
+4	246	6.88%
+7	150	4.20%
+-1	69	1.93%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	1119	31.31%
+3	535	14.97%
+5	512	14.33%
+1	501	14.02%
+6	385	10.77%
+4	340	9.51%
+7	118	3.30%
+-1	64	1.79%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	953	26.66%
+3	691	19.33%
+5	524	14.66%
+4	442	12.37%
+6	429	12.00%
+1	348	9.74%
+7	124	3.47%
+-1	63	1.76%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1544	43.20%
+5	793	22.19%
+7	647	18.10%
+4	269	7.53%
+2	111	3.11%
+3	103	2.88%
+-1	70	1.96%
+1	37	1.04%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	830	23.22%
+2	636	17.80%
+3	634	17.74%
+6	562	15.72%
+4	511	14.30%
+1	174	4.87%
+7	156	4.36%
+-1	71	1.99%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1250	34.97%
+5	1015	28.40%
+4	496	13.88%
+7	334	9.35%
+3	211	5.90%
+2	149	4.17%
+-1	81	2.27%
+1	38	1.06%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	929	25.99%
+3	694	19.42%
+5	496	13.88%
+4	441	12.34%
+6	428	11.98%
+1	356	9.96%
+7	165	4.62%
+-1	65	1.82%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	971	27.17%
+6	757	21.18%
+4	672	18.80%
+3	410	11.47%
+2	342	9.57%
+7	178	4.98%
+1	152	4.25%
+-1	92	2.57%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1362	38.11%
+5	1022	28.60%
+4	407	11.39%
+7	387	10.83%
+3	174	4.87%
+-1	94	2.63%
+2	92	2.57%
+1	36	1.01%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1382	38.67%
+5	946	26.47%
+7	390	10.91%
+4	383	10.72%
+3	189	5.29%
+2	129	3.61%
+-1	83	2.32%
+1	72	2.01%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1126	31.51%
+6	833	23.31%
+4	777	21.74%
+3	316	8.84%
+7	174	4.87%
+2	162	4.53%
+-1	143	4.00%
+1	43	1.20%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1206	33.74%
+5	1024	28.65%
+4	465	13.01%
+7	358	10.02%
+3	247	6.91%
+2	151	4.22%
+-1	82	2.29%
+1	41	1.15%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1115	31.20%
+5	990	27.70%
+4	486	13.60%
+7	322	9.01%
+3	248	6.94%
+2	172	4.81%
+1	135	3.78%
+-1	106	2.97%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1487	41.61%
+5	864	24.17%
+7	618	17.29%
+4	280	7.83%
+3	127	3.55%
+-1	92	2.57%
+2	75	2.10%
+1	31	0.87%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1305	36.51%
+7	895	25.04%
+5	778	21.77%
+4	256	7.16%
+3	145	4.06%
+-1	83	2.32%
+2	67	1.87%
+1	45	1.26%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1148	32.12%
+6	935	26.16%
+4	648	18.13%
+3	303	8.48%
+2	198	5.54%
+7	171	4.78%
+-1	88	2.46%
+1	83	2.32%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	969	27.11%
+6	662	18.52%
+4	645	18.05%
+3	447	12.51%
+2	377	10.55%
+1	219	6.13%
+7	146	4.09%
+-1	109	3.05%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1045	29.24%
+6	953	26.66%
+4	686	19.19%
+3	283	7.92%
+7	221	6.18%
+2	159	4.45%
+-1	134	3.75%
+1	93	2.60%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1503	42.05%
+5	790	22.10%
+7	690	19.31%
+4	285	7.97%
+-1	122	3.41%
+3	103	2.88%
+2	52	1.45%
+1	29	0.81%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1478	41.35%
+5	812	22.72%
+7	707	19.78%
+4	292	8.17%
+-1	122	3.41%
+3	91	2.55%
+2	48	1.34%
+1	24	0.67%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1159	32.43%
+5	880	24.62%
+4	457	12.79%
+7	455	12.73%
+3	259	7.25%
+2	159	4.45%
+-1	141	3.95%
+1	64	1.79%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1002	28.04%
+5	799	22.36%
+4	571	15.98%
+7	557	15.58%
+3	278	7.78%
+2	155	4.34%
+-1	122	3.41%
+1	90	2.52%
+
+Cluster 1 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	963	35.43%
+5.0	620	22.81%
+6.0	460	16.92%
+3.0	309	11.37%
+2.0	145	5.33%
+7.0	137	5.04%
+1.0	84	3.09%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1026	37.75%
+5.0	520	19.13%
+3.0	419	15.42%
+6.0	312	11.48%
+2.0	204	7.51%
+1.0	125	4.60%
+7.0	112	4.12%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1019	37.49%
+5.0	508	18.69%
+3.0	382	14.05%
+6.0	361	13.28%
+2.0	219	8.06%
+7.0	124	4.56%
+1.0	105	3.86%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	968	35.61%
+5.0	644	23.69%
+6.0	431	15.86%
+3.0	333	12.25%
+7.0	141	5.19%
+2.0	131	4.82%
+1.0	70	2.58%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	894	32.89%
+3.0	415	15.27%
+2.0	345	12.69%
+1.0	345	12.69%
+5.0	299	11.00%
+6.0	221	8.13%
+7.0	199	7.32%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1316	48.42%
+3.0	441	16.23%
+2.0	282	10.38%
+5.0	266	9.79%
+1.0	224	8.24%
+6.0	113	4.16%
+7.0	76	2.80%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1420	52.24%
+5.0	448	16.48%
+3.0	351	12.91%
+6.0	189	6.95%
+2.0	152	5.59%
+1.0	80	2.94%
+7.0	78	2.87%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1383	50.88%
+5.0	471	17.33%
+3.0	299	11.00%
+6.0	234	8.61%
+2.0	120	4.42%
+7.0	115	4.23%
+1.0	96	3.53%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1069	39.33%
+0	603	22.19%
+1	573	21.08%
+2	423	15.56%
+3	50	1.84%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1031	37.93%
+1	743	27.34%
+0	669	24.61%
+2	251	9.23%
+3	24	0.88%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1154	42.46%
+1	671	24.69%
+0	532	19.57%
+2	338	12.44%
+3	23	0.85%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1200	44.15%
+1	597	21.96%
+0	460	16.92%
+2	430	15.82%
+3	31	1.14%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1208	44.44%
+1	589	21.67%
+0	543	19.98%
+2	327	12.03%
+3	51	1.88%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1229	45.22%
+1	510	18.76%
+2	466	17.14%
+0	425	15.64%
+3	88	3.24%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1065	39.18%
+2	878	32.30%
+1	326	11.99%
+3	269	9.90%
+0	180	6.62%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1324	48.71%
+1	565	20.79%
+2	471	17.33%
+0	313	11.52%
+3	45	1.66%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1161	42.72%
+1	628	23.11%
+0	548	20.16%
+2	332	12.21%
+3	49	1.80%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1472	54.16%
+2	630	23.18%
+1	360	13.25%
+0	176	6.48%
+3	80	2.94%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1289	47.42%
+1	648	23.84%
+0	434	15.97%
+2	308	11.33%
+3	39	1.43%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+2	853	31.38%
+3	683	25.13%
+4	482	17.73%
+1	399	14.68%
+0	193	7.10%
+-1	108	3.97%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+2	1097	40.36%
+3	649	23.88%
+1	389	14.31%
+4	299	11.00%
+0	165	6.07%
+-1	119	4.38%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	1229	45.22%
+3	667	24.54%
+2	522	19.21%
+1	135	4.97%
+-1	106	3.90%
+0	59	2.17%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+2	979	36.02%
+3	552	20.31%
+1	381	14.02%
+0	365	13.43%
+4	290	10.67%
+-1	151	5.56%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+0	939	34.55%
+2	682	25.09%
+1	441	16.23%
+3	329	12.10%
+-1	184	6.77%
+4	143	5.26%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+2	932	34.29%
+3	504	18.54%
+0	434	15.97%
+1	383	14.09%
+4	328	12.07%
+-1	137	5.04%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1464	53.86%
+0	814	29.95%
+2	440	16.19%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1432	52.69%
+1	1025	37.71%
+2	261	9.60%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1803	66.34%
+1	712	26.20%
+2	203	7.47%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1440	52.98%
+0	947	34.84%
+2	331	12.18%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1867	68.69%
+1	690	25.39%
+2	161	5.92%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1879	69.13%
+1	684	25.17%
+2	155	5.70%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	816	30.02%
+5	362	13.32%
+3	309	11.37%
+1	280	10.30%
+2	278	10.23%
+6	276	10.15%
+-1	225	8.28%
+7	172	6.33%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	896	32.97%
+5	364	13.39%
+3	312	11.48%
+-1	282	10.38%
+6	252	9.27%
+2	243	8.94%
+1	217	7.98%
+7	152	5.59%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	852	31.35%
+5	369	13.58%
+3	303	11.15%
+6	289	10.63%
+1	286	10.52%
+2	255	9.38%
+-1	235	8.65%
+7	129	4.75%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	925	34.03%
+-1	400	14.72%
+5	377	13.87%
+6	303	11.15%
+7	237	8.72%
+3	219	8.06%
+2	146	5.37%
+1	111	4.08%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	898	33.04%
+-1	405	14.90%
+5	389	14.31%
+6	299	11.00%
+7	252	9.27%
+3	214	7.87%
+2	146	5.37%
+1	115	4.23%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	976	35.91%
+3	392	14.42%
+2	312	11.48%
+5	311	11.44%
+1	269	9.90%
+-1	204	7.51%
+6	172	6.33%
+7	82	3.02%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1011	37.20%
+3	450	16.56%
+5	317	11.66%
+2	271	9.97%
+1	255	9.38%
+-1	201	7.40%
+6	150	5.52%
+7	63	2.32%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1094	40.25%
+3	398	14.64%
+5	365	13.43%
+2	238	8.76%
+-1	210	7.73%
+1	176	6.48%
+6	166	6.11%
+7	71	2.61%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	913	33.59%
+5	584	21.49%
+6	428	15.75%
+7	272	10.01%
+-1	199	7.32%
+3	191	7.03%
+2	93	3.42%
+1	38	1.40%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1108	40.77%
+5	422	15.53%
+3	342	12.58%
+6	238	8.76%
+-1	203	7.47%
+2	191	7.03%
+7	122	4.49%
+1	92	3.38%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1180	43.41%
+5	510	18.76%
+3	283	10.41%
+6	223	8.20%
+-1	215	7.91%
+1	110	4.05%
+2	106	3.90%
+7	91	3.35%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1046	38.48%
+3	409	15.05%
+5	402	14.79%
+2	224	8.24%
+-1	210	7.73%
+6	178	6.55%
+1	151	5.56%
+7	98	3.61%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1124	41.35%
+3	364	13.39%
+5	339	12.47%
+2	244	8.98%
+1	215	7.91%
+-1	212	7.80%
+6	165	6.07%
+7	55	2.02%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1230	45.25%
+5	560	20.60%
+-1	242	8.90%
+6	220	8.09%
+3	219	8.06%
+7	106	3.90%
+2	87	3.20%
+1	54	1.99%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1150	42.31%
+5	505	18.58%
+3	282	10.38%
+-1	218	8.02%
+6	202	7.43%
+1	146	5.37%
+2	125	4.60%
+7	90	3.31%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1381	50.81%
+5	422	15.53%
+-1	253	9.31%
+3	233	8.57%
+6	161	5.92%
+1	109	4.01%
+2	104	3.83%
+7	55	2.02%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1193	43.89%
+5	536	19.72%
+3	247	9.09%
+6	227	8.35%
+-1	211	7.76%
+7	109	4.01%
+2	101	3.72%
+1	94	3.46%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1061	39.04%
+5	455	16.74%
+3	300	11.04%
+-1	263	9.68%
+1	195	7.17%
+6	185	6.81%
+2	157	5.78%
+7	102	3.75%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1015	37.34%
+5	570	20.97%
+6	304	11.18%
+-1	262	9.64%
+7	220	8.09%
+3	217	7.98%
+2	65	2.39%
+1	65	2.39%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1029	37.86%
+5	524	19.28%
+6	273	10.04%
+-1	239	8.79%
+3	237	8.72%
+7	215	7.91%
+2	101	3.72%
+1	100	3.68%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1173	43.16%
+5	409	15.05%
+3	331	12.18%
+-1	257	9.46%
+2	176	6.48%
+6	166	6.11%
+1	158	5.81%
+7	48	1.77%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1090	40.10%
+5	348	12.80%
+3	322	11.85%
+1	287	10.56%
+-1	253	9.31%
+2	244	8.98%
+6	131	4.82%
+7	43	1.58%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1262	46.43%
+5	378	13.91%
+3	285	10.49%
+-1	260	9.57%
+6	176	6.48%
+1	156	5.74%
+2	151	5.56%
+7	50	1.84%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1045	38.45%
+5	548	20.16%
+6	299	11.00%
+-1	249	9.16%
+7	241	8.87%
+3	220	8.09%
+2	67	2.47%
+1	49	1.80%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1042	38.34%
+5	545	20.05%
+6	330	12.14%
+7	257	9.46%
+-1	257	9.46%
+3	197	7.25%
+2	53	1.95%
+1	37	1.36%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1104	40.62%
+5	499	18.36%
+-1	276	10.15%
+6	258	9.49%
+7	249	9.16%
+3	207	7.62%
+2	72	2.65%
+1	53	1.95%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1078	39.66%
+5	429	15.78%
+7	368	13.54%
+-1	256	9.42%
+6	250	9.20%
+3	211	7.76%
+1	66	2.43%
+2	60	2.21%
+
+Cluster 2 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1236	39.59%
+6.0	942	30.17%
+5.0	500	16.02%
+4.0	232	7.43%
+3.0	85	2.72%
+1.0	79	2.53%
+2.0	48	1.54%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1277	40.90%
+6.0	853	27.32%
+5.0	445	14.25%
+4.0	228	7.30%
+3.0	119	3.81%
+1.0	115	3.68%
+2.0	85	2.72%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1267	40.58%
+6.0	870	27.87%
+5.0	453	14.51%
+4.0	215	6.89%
+1.0	119	3.81%
+3.0	111	3.56%
+2.0	87	2.79%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1250	40.04%
+6.0	984	31.52%
+5.0	481	15.41%
+4.0	159	5.09%
+3.0	108	3.46%
+1.0	76	2.43%
+2.0	64	2.05%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+1.0	1356	43.43%
+2.0	480	15.37%
+7.0	364	11.66%
+4.0	286	9.16%
+5.0	221	7.08%
+6.0	218	6.98%
+3.0	197	6.31%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+1.0	1456	46.64%
+4.0	504	16.14%
+2.0	452	14.48%
+7.0	207	6.63%
+3.0	203	6.50%
+5.0	152	4.87%
+6.0	148	4.74%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	772	24.73%
+6.0	554	17.75%
+5.0	500	16.02%
+7.0	470	15.05%
+1.0	328	10.51%
+3.0	271	8.68%
+2.0	227	7.27%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1437	46.03%
+6.0	601	19.25%
+4.0	433	13.87%
+5.0	314	10.06%
+1.0	175	5.61%
+3.0	83	2.66%
+2.0	79	2.53%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1187	38.02%
+0	581	18.61%
+1	543	17.39%
+-1	464	14.86%
+3	347	11.11%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+0	962	30.81%
+1	751	24.06%
+2	726	23.25%
+-1	525	16.82%
+3	158	5.06%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	866	27.74%
+0	798	25.56%
+1	710	22.74%
+-1	582	18.64%
+3	166	5.32%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	975	31.23%
+0	656	21.01%
+1	651	20.85%
+-1	620	19.86%
+3	220	7.05%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	891	28.54%
+0	729	23.35%
+1	644	20.63%
+-1	630	20.18%
+3	228	7.30%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	962	30.81%
+0	627	20.08%
+-1	605	19.38%
+1	547	17.52%
+3	381	12.20%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1389	44.49%
+3	1016	32.54%
+-1	348	11.15%
+0	197	6.31%
+1	172	5.51%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1010	32.35%
+-1	799	25.59%
+1	613	19.63%
+0	468	14.99%
+3	232	7.43%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	831	26.62%
+0	776	24.86%
+1	654	20.95%
+-1	647	20.72%
+3	214	6.85%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1336	42.79%
+-1	886	28.38%
+1	348	11.15%
+3	338	10.83%
+0	214	6.85%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	814	26.07%
+2	754	24.15%
+1	711	22.77%
+0	671	21.49%
+3	172	5.51%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+4	1552	49.71%
+3	820	26.27%
+2	317	10.15%
+1	246	7.88%
+0	167	5.35%
+-1	20	0.64%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+4	1453	46.54%
+3	914	29.28%
+2	442	14.16%
+1	161	5.16%
+0	131	4.20%
+-1	21	0.67%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	2539	81.33%
+3	399	12.78%
+2	69	2.21%
+1	49	1.57%
+0	46	1.47%
+-1	20	0.64%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+4	1394	44.65%
+3	698	22.36%
+2	454	14.54%
+0	300	9.61%
+1	207	6.63%
+-1	69	2.21%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+0	1116	35.75%
+4	599	19.19%
+2	443	14.19%
+3	415	13.29%
+1	395	12.65%
+-1	154	4.93%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+4	1123	35.97%
+3	764	24.47%
+2	508	16.27%
+0	372	11.92%
+1	305	9.77%
+-1	50	1.60%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1687	54.04%
+0	926	29.66%
+2	509	16.30%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1704	54.58%
+1	1163	37.25%
+2	255	8.17%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2077	66.53%
+1	794	25.43%
+2	251	8.04%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1570	50.29%
+0	966	30.94%
+2	586	18.77%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2316	74.18%
+1	633	20.28%
+2	173	5.54%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2148	68.80%
+1	779	24.95%
+2	195	6.25%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	998	31.97%
+7	582	18.64%
+2	370	11.85%
+6	358	11.47%
+4	255	8.17%
+5	243	7.78%
+3	222	7.11%
+-1	94	3.01%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	898	28.76%
+7	559	17.91%
+6	397	12.72%
+2	347	11.11%
+4	300	9.61%
+5	248	7.94%
+3	222	7.11%
+-1	151	4.84%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	1080	34.59%
+7	553	17.71%
+2	403	12.91%
+6	319	10.22%
+4	264	8.46%
+5	213	6.82%
+3	204	6.53%
+-1	86	2.75%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+7	819	26.23%
+1	535	17.14%
+6	413	13.23%
+-1	356	11.40%
+4	342	10.95%
+5	252	8.07%
+2	220	7.05%
+3	185	5.93%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+7	863	27.64%
+1	485	15.53%
+6	420	13.45%
+-1	373	11.95%
+4	331	10.60%
+5	255	8.17%
+2	228	7.30%
+3	167	5.35%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	2001	64.09%
+7	382	12.24%
+2	272	8.71%
+6	107	3.43%
+4	106	3.40%
+3	96	3.07%
+-1	80	2.56%
+5	78	2.50%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1986	63.61%
+2	307	9.83%
+7	259	8.30%
+4	129	4.13%
+3	128	4.10%
+6	126	4.04%
+5	109	3.49%
+-1	78	2.50%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1643	52.63%
+2	414	13.26%
+7	278	8.90%
+3	215	6.89%
+4	189	6.05%
+6	167	5.35%
+5	140	4.48%
+-1	76	2.43%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2049	65.63%
+6	448	14.35%
+1	167	5.35%
+5	163	5.22%
+-1	99	3.17%
+4	89	2.85%
+2	54	1.73%
+3	53	1.70%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1079	34.56%
+2	475	15.21%
+7	455	14.57%
+4	299	9.58%
+6	277	8.87%
+3	255	8.17%
+5	200	6.41%
+-1	82	2.63%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1460	46.76%
+6	509	16.30%
+5	350	11.21%
+4	255	8.17%
+1	234	7.50%
+-1	117	3.75%
+2	100	3.20%
+3	97	3.11%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1576	50.48%
+2	428	13.71%
+7	300	9.61%
+3	236	7.56%
+4	197	6.31%
+6	175	5.61%
+5	134	4.29%
+-1	76	2.43%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	866	27.74%
+6	546	17.49%
+4	472	15.12%
+1	398	12.75%
+5	352	11.27%
+3	208	6.66%
+2	184	5.89%
+-1	96	3.07%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1657	53.07%
+6	549	17.58%
+5	263	8.42%
+4	212	6.79%
+1	158	5.06%
+-1	140	4.48%
+2	73	2.34%
+3	70	2.24%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1682	53.88%
+6	494	15.82%
+1	269	8.62%
+5	244	7.82%
+4	166	5.32%
+-1	115	3.68%
+3	76	2.43%
+2	76	2.43%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	764	24.47%
+4	573	18.35%
+6	524	16.78%
+5	367	11.76%
+1	325	10.41%
+-1	196	6.28%
+3	188	6.02%
+2	185	5.93%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1436	46.00%
+6	500	16.02%
+5	352	11.27%
+4	266	8.52%
+1	212	6.79%
+3	127	4.07%
+-1	115	3.68%
+2	114	3.65%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1217	38.98%
+6	480	15.37%
+5	376	12.04%
+1	335	10.73%
+4	335	10.73%
+-1	133	4.26%
+2	127	4.07%
+3	119	3.81%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1993	63.84%
+6	528	16.91%
+5	197	6.31%
+-1	116	3.72%
+1	110	3.52%
+4	98	3.14%
+3	45	1.44%
+2	35	1.12%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2134	68.35%
+6	336	10.76%
+5	165	5.29%
+1	161	5.16%
+4	119	3.81%
+-1	95	3.04%
+3	61	1.95%
+2	51	1.63%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1013	32.45%
+6	658	21.08%
+5	493	15.79%
+4	370	11.85%
+1	196	6.28%
+3	160	5.12%
+2	127	4.07%
+-1	105	3.36%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	720	23.06%
+1	593	18.99%
+6	453	14.51%
+4	385	12.33%
+5	369	11.82%
+2	253	8.10%
+3	204	6.53%
+-1	145	4.64%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1047	33.54%
+6	567	18.16%
+4	446	14.29%
+5	329	10.54%
+1	298	9.55%
+-1	168	5.38%
+3	147	4.71%
+2	120	3.84%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2132	68.29%
+6	444	14.22%
+5	152	4.87%
+-1	118	3.78%
+1	102	3.27%
+4	92	2.95%
+3	52	1.67%
+2	30	0.96%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2131	68.26%
+6	428	13.71%
+5	180	5.77%
+-1	113	3.62%
+4	107	3.43%
+1	98	3.14%
+3	35	1.12%
+2	30	0.96%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1491	47.76%
+6	390	12.49%
+4	297	9.51%
+5	280	8.97%
+1	225	7.21%
+-1	154	4.93%
+3	144	4.61%
+2	141	4.52%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1446	46.32%
+6	410	13.13%
+4	346	11.08%
+5	284	9.10%
+1	211	6.76%
+3	160	5.12%
+-1	139	4.45%
+2	126	4.04%
+
+Cluster 0 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1392	38.95%
+6.0	1143	31.98%
+4.0	479	13.40%
+7.0	209	5.85%
+3.0	182	5.09%
+1.0	85	2.38%
+2.0	84	2.35%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1327	37.13%
+6.0	1005	28.12%
+4.0	526	14.72%
+7.0	246	6.88%
+3.0	242	6.77%
+2.0	184	5.15%
+1.0	44	1.23%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1329	37.19%
+6.0	1043	29.18%
+4.0	532	14.89%
+3.0	273	7.64%
+7.0	218	6.10%
+2.0	123	3.44%
+1.0	56	1.57%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1549	43.34%
+6.0	1123	31.42%
+4.0	374	10.46%
+3.0	213	5.96%
+7.0	202	5.65%
+2.0	77	2.15%
+1.0	36	1.01%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+2.0	953	26.66%
+1.0	572	16.00%
+5.0	531	14.86%
+3.0	513	14.35%
+4.0	480	13.43%
+6.0	387	10.83%
+7.0	138	3.86%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+2.0	1015	28.40%
+4.0	723	20.23%
+3.0	623	17.43%
+1.0	590	16.51%
+5.0	364	10.18%
+6.0	195	5.46%
+7.0	64	1.79%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1216	34.02%
+4.0	947	26.50%
+6.0	592	16.56%
+3.0	429	12.00%
+2.0	211	5.90%
+7.0	120	3.36%
+1.0	59	1.65%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+5.0	1144	32.01%
+6.0	1030	28.82%
+4.0	672	18.80%
+7.0	394	11.02%
+3.0	190	5.32%
+2.0	111	3.11%
+1.0	33	0.92%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1461	40.88%
+1	828	23.17%
+-1	715	20.01%
+0	413	11.56%
+3	157	4.39%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+1	1339	37.47%
+2	809	22.64%
+-1	745	20.84%
+0	607	16.98%
+3	74	2.07%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+1	1169	32.71%
+2	957	26.78%
+-1	886	24.79%
+0	472	13.21%
+3	90	2.52%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1242	34.75%
+1	940	26.30%
+-1	852	23.84%
+0	415	11.61%
+3	125	3.50%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1149	32.15%
+-1	943	26.39%
+1	905	25.32%
+0	425	11.89%
+3	152	4.25%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1348	37.72%
+-1	815	22.80%
+1	759	21.24%
+0	369	10.32%
+3	283	7.92%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1960	54.84%
+3	722	20.20%
+-1	522	14.61%
+1	268	7.50%
+0	102	2.85%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1279	35.79%
+2	1071	29.97%
+1	850	23.78%
+0	252	7.05%
+3	122	3.41%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1064	29.77%
+1	995	27.84%
+2	908	25.41%
+0	508	14.21%
+3	99	2.77%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1579	44.18%
+-1	1211	33.88%
+1	492	13.77%
+3	178	4.98%
+0	114	3.19%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1217	34.05%
+1	1016	28.43%
+2	869	24.31%
+0	401	11.22%
+3	71	1.99%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+3	1511	42.28%
+4	812	22.72%
+2	714	19.98%
+1	353	9.88%
+0	149	4.17%
+-1	35	0.98%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+3	1621	45.36%
+2	869	24.31%
+4	648	18.13%
+1	337	9.43%
+0	65	1.82%
+-1	34	0.95%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	2146	60.04%
+3	950	26.58%
+2	327	9.15%
+1	94	2.63%
+-1	32	0.90%
+0	25	0.70%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+3	1385	38.75%
+2	873	24.43%
+4	700	19.59%
+1	354	9.90%
+0	199	5.57%
+-1	63	1.76%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+2	974	27.25%
+0	793	22.19%
+3	720	20.15%
+1	629	17.60%
+4	324	9.07%
+-1	134	3.75%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+3	1300	36.37%
+2	868	24.29%
+4	586	16.40%
+1	506	14.16%
+0	248	6.94%
+-1	66	1.85%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	2175	60.86%
+0	780	21.82%
+2	619	17.32%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1851	51.79%
+0	1359	38.02%
+2	364	10.18%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2054	57.47%
+1	1160	32.46%
+2	360	10.07%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	2115	59.18%
+0	795	22.24%
+2	664	18.58%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2298	64.30%
+1	1020	28.54%
+2	256	7.16%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2071	57.95%
+1	1193	33.38%
+2	310	8.67%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	765	21.40%
+6	658	18.41%
+2	603	16.87%
+3	414	11.58%
+4	401	11.22%
+1	365	10.21%
+7	287	8.03%
+-1	81	2.27%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	828	23.17%
+6	638	17.85%
+2	552	15.44%
+4	499	13.96%
+3	437	12.23%
+7	250	6.99%
+1	240	6.72%
+-1	130	3.64%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	751	21.01%
+2	627	17.54%
+6	607	16.98%
+3	447	12.51%
+4	441	12.34%
+1	352	9.85%
+7	265	7.41%
+-1	84	2.35%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	889	24.87%
+6	824	23.06%
+4	519	14.52%
+7	391	10.94%
+3	333	9.32%
+2	253	7.08%
+-1	242	6.77%
+1	123	3.44%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+5	912	25.52%
+6	830	23.22%
+4	494	13.82%
+7	410	11.47%
+3	330	9.23%
+2	256	7.16%
+-1	251	7.02%
+1	91	2.55%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	1115	31.20%
+1	658	18.41%
+3	454	12.70%
+5	445	12.45%
+6	437	12.23%
+4	246	6.88%
+7	150	4.20%
+-1	69	1.93%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	1119	31.31%
+3	535	14.97%
+5	512	14.33%
+1	501	14.02%
+6	385	10.77%
+4	340	9.51%
+7	118	3.30%
+-1	64	1.79%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	953	26.66%
+3	691	19.33%
+5	524	14.66%
+4	442	12.37%
+6	429	12.00%
+1	348	9.74%
+7	124	3.47%
+-1	63	1.76%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1544	43.20%
+5	793	22.19%
+7	647	18.10%
+4	269	7.53%
+2	111	3.11%
+3	103	2.88%
+-1	70	1.96%
+1	37	1.04%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	830	23.22%
+2	636	17.80%
+3	634	17.74%
+6	562	15.72%
+4	511	14.30%
+1	174	4.87%
+7	156	4.36%
+-1	71	1.99%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1250	34.97%
+5	1015	28.40%
+4	496	13.88%
+7	334	9.35%
+3	211	5.90%
+2	149	4.17%
+-1	81	2.27%
+1	38	1.06%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+2	929	25.99%
+3	694	19.42%
+5	496	13.88%
+4	441	12.34%
+6	428	11.98%
+1	356	9.96%
+7	165	4.62%
+-1	65	1.82%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	971	27.17%
+6	757	21.18%
+4	672	18.80%
+3	410	11.47%
+2	342	9.57%
+7	178	4.98%
+1	152	4.25%
+-1	92	2.57%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1362	38.11%
+5	1022	28.60%
+4	407	11.39%
+7	387	10.83%
+3	174	4.87%
+-1	94	2.63%
+2	92	2.57%
+1	36	1.01%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1382	38.67%
+5	946	26.47%
+7	390	10.91%
+4	383	10.72%
+3	189	5.29%
+2	129	3.61%
+-1	83	2.32%
+1	72	2.01%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1126	31.51%
+6	833	23.31%
+4	777	21.74%
+3	316	8.84%
+7	174	4.87%
+2	162	4.53%
+-1	143	4.00%
+1	43	1.20%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1206	33.74%
+5	1024	28.65%
+4	465	13.01%
+7	358	10.02%
+3	247	6.91%
+2	151	4.22%
+-1	82	2.29%
+1	41	1.15%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1115	31.20%
+5	990	27.70%
+4	486	13.60%
+7	322	9.01%
+3	248	6.94%
+2	172	4.81%
+1	135	3.78%
+-1	106	2.97%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1487	41.61%
+5	864	24.17%
+7	618	17.29%
+4	280	7.83%
+3	127	3.55%
+-1	92	2.57%
+2	75	2.10%
+1	31	0.87%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1305	36.51%
+7	895	25.04%
+5	778	21.77%
+4	256	7.16%
+3	145	4.06%
+-1	83	2.32%
+2	67	1.87%
+1	45	1.26%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1148	32.12%
+6	935	26.16%
+4	648	18.13%
+3	303	8.48%
+2	198	5.54%
+7	171	4.78%
+-1	88	2.46%
+1	83	2.32%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	969	27.11%
+6	662	18.52%
+4	645	18.05%
+3	447	12.51%
+2	377	10.55%
+1	219	6.13%
+7	146	4.09%
+-1	109	3.05%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+5	1045	29.24%
+6	953	26.66%
+4	686	19.19%
+3	283	7.92%
+7	221	6.18%
+2	159	4.45%
+-1	134	3.75%
+1	93	2.60%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1503	42.05%
+5	790	22.10%
+7	690	19.31%
+4	285	7.97%
+-1	122	3.41%
+3	103	2.88%
+2	52	1.45%
+1	29	0.81%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1478	41.35%
+5	812	22.72%
+7	707	19.78%
+4	292	8.17%
+-1	122	3.41%
+3	91	2.55%
+2	48	1.34%
+1	24	0.67%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1159	32.43%
+5	880	24.62%
+4	457	12.79%
+7	455	12.73%
+3	259	7.25%
+2	159	4.45%
+-1	141	3.95%
+1	64	1.79%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+6	1002	28.04%
+5	799	22.36%
+4	571	15.98%
+7	557	15.58%
+3	278	7.78%
+2	155	4.34%
+-1	122	3.41%
+1	90	2.52%
+
+Cluster 1 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	963	35.43%
+5.0	620	22.81%
+6.0	460	16.92%
+3.0	309	11.37%
+2.0	145	5.33%
+7.0	137	5.04%
+1.0	84	3.09%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1026	37.75%
+5.0	520	19.13%
+3.0	419	15.42%
+6.0	312	11.48%
+2.0	204	7.51%
+1.0	125	4.60%
+7.0	112	4.12%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1019	37.49%
+5.0	508	18.69%
+3.0	382	14.05%
+6.0	361	13.28%
+2.0	219	8.06%
+7.0	124	4.56%
+1.0	105	3.86%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	968	35.61%
+5.0	644	23.69%
+6.0	431	15.86%
+3.0	333	12.25%
+7.0	141	5.19%
+2.0	131	4.82%
+1.0	70	2.58%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	894	32.89%
+3.0	415	15.27%
+2.0	345	12.69%
+1.0	345	12.69%
+5.0	299	11.00%
+6.0	221	8.13%
+7.0	199	7.32%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1316	48.42%
+3.0	441	16.23%
+2.0	282	10.38%
+5.0	266	9.79%
+1.0	224	8.24%
+6.0	113	4.16%
+7.0	76	2.80%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1420	52.24%
+5.0	448	16.48%
+3.0	351	12.91%
+6.0	189	6.95%
+2.0	152	5.59%
+1.0	80	2.94%
+7.0	78	2.87%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	1383	50.88%
+5.0	471	17.33%
+3.0	299	11.00%
+6.0	234	8.61%
+2.0	120	4.42%
+7.0	115	4.23%
+1.0	96	3.53%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1069	39.33%
+0	603	22.19%
+1	573	21.08%
+2	423	15.56%
+3	50	1.84%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1031	37.93%
+1	743	27.34%
+0	669	24.61%
+2	251	9.23%
+3	24	0.88%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1154	42.46%
+1	671	24.69%
+0	532	19.57%
+2	338	12.44%
+3	23	0.85%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1200	44.15%
+1	597	21.96%
+0	460	16.92%
+2	430	15.82%
+3	31	1.14%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1208	44.44%
+1	589	21.67%
+0	543	19.98%
+2	327	12.03%
+3	51	1.88%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1229	45.22%
+1	510	18.76%
+2	466	17.14%
+0	425	15.64%
+3	88	3.24%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1065	39.18%
+2	878	32.30%
+1	326	11.99%
+3	269	9.90%
+0	180	6.62%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1324	48.71%
+1	565	20.79%
+2	471	17.33%
+0	313	11.52%
+3	45	1.66%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1161	42.72%
+1	628	23.11%
+0	548	20.16%
+2	332	12.21%
+3	49	1.80%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1472	54.16%
+2	630	23.18%
+1	360	13.25%
+0	176	6.48%
+3	80	2.94%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	1289	47.42%
+1	648	23.84%
+0	434	15.97%
+2	308	11.33%
+3	39	1.43%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+2	853	31.38%
+3	683	25.13%
+4	482	17.73%
+1	399	14.68%
+0	193	7.10%
+-1	108	3.97%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+2	1097	40.36%
+3	649	23.88%
+1	389	14.31%
+4	299	11.00%
+0	165	6.07%
+-1	119	4.38%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	1229	45.22%
+3	667	24.54%
+2	522	19.21%
+1	135	4.97%
+-1	106	3.90%
+0	59	2.17%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+2	979	36.02%
+3	552	20.31%
+1	381	14.02%
+0	365	13.43%
+4	290	10.67%
+-1	151	5.56%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+0	939	34.55%
+2	682	25.09%
+1	441	16.23%
+3	329	12.10%
+-1	184	6.77%
+4	143	5.26%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+2	932	34.29%
+3	504	18.54%
+0	434	15.97%
+1	383	14.09%
+4	328	12.07%
+-1	137	5.04%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1464	53.86%
+0	814	29.95%
+2	440	16.19%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1432	52.69%
+1	1025	37.71%
+2	261	9.60%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1803	66.34%
+1	712	26.20%
+2	203	7.47%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1440	52.98%
+0	947	34.84%
+2	331	12.18%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1867	68.69%
+1	690	25.39%
+2	161	5.92%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1879	69.13%
+1	684	25.17%
+2	155	5.70%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	816	30.02%
+5	362	13.32%
+3	309	11.37%
+1	280	10.30%
+2	278	10.23%
+6	276	10.15%
+-1	225	8.28%
+7	172	6.33%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	896	32.97%
+5	364	13.39%
+3	312	11.48%
+-1	282	10.38%
+6	252	9.27%
+2	243	8.94%
+1	217	7.98%
+7	152	5.59%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	852	31.35%
+5	369	13.58%
+3	303	11.15%
+6	289	10.63%
+1	286	10.52%
+2	255	9.38%
+-1	235	8.65%
+7	129	4.75%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	925	34.03%
+-1	400	14.72%
+5	377	13.87%
+6	303	11.15%
+7	237	8.72%
+3	219	8.06%
+2	146	5.37%
+1	111	4.08%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+4	898	33.04%
+-1	405	14.90%
+5	389	14.31%
+6	299	11.00%
+7	252	9.27%
+3	214	7.87%
+2	146	5.37%
+1	115	4.23%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	976	35.91%
+3	392	14.42%
+2	312	11.48%
+5	311	11.44%
+1	269	9.90%
+-1	204	7.51%
+6	172	6.33%
+7	82	3.02%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1011	37.20%
+3	450	16.56%
+5	317	11.66%
+2	271	9.97%
+1	255	9.38%
+-1	201	7.40%
+6	150	5.52%
+7	63	2.32%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1094	40.25%
+3	398	14.64%
+5	365	13.43%
+2	238	8.76%
+-1	210	7.73%
+1	176	6.48%
+6	166	6.11%
+7	71	2.61%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	913	33.59%
+5	584	21.49%
+6	428	15.75%
+7	272	10.01%
+-1	199	7.32%
+3	191	7.03%
+2	93	3.42%
+1	38	1.40%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1108	40.77%
+5	422	15.53%
+3	342	12.58%
+6	238	8.76%
+-1	203	7.47%
+2	191	7.03%
+7	122	4.49%
+1	92	3.38%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1180	43.41%
+5	510	18.76%
+3	283	10.41%
+6	223	8.20%
+-1	215	7.91%
+1	110	4.05%
+2	106	3.90%
+7	91	3.35%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1046	38.48%
+3	409	15.05%
+5	402	14.79%
+2	224	8.24%
+-1	210	7.73%
+6	178	6.55%
+1	151	5.56%
+7	98	3.61%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1124	41.35%
+3	364	13.39%
+5	339	12.47%
+2	244	8.98%
+1	215	7.91%
+-1	212	7.80%
+6	165	6.07%
+7	55	2.02%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1230	45.25%
+5	560	20.60%
+-1	242	8.90%
+6	220	8.09%
+3	219	8.06%
+7	106	3.90%
+2	87	3.20%
+1	54	1.99%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1150	42.31%
+5	505	18.58%
+3	282	10.38%
+-1	218	8.02%
+6	202	7.43%
+1	146	5.37%
+2	125	4.60%
+7	90	3.31%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1381	50.81%
+5	422	15.53%
+-1	253	9.31%
+3	233	8.57%
+6	161	5.92%
+1	109	4.01%
+2	104	3.83%
+7	55	2.02%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1193	43.89%
+5	536	19.72%
+3	247	9.09%
+6	227	8.35%
+-1	211	7.76%
+7	109	4.01%
+2	101	3.72%
+1	94	3.46%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1061	39.04%
+5	455	16.74%
+3	300	11.04%
+-1	263	9.68%
+1	195	7.17%
+6	185	6.81%
+2	157	5.78%
+7	102	3.75%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1015	37.34%
+5	570	20.97%
+6	304	11.18%
+-1	262	9.64%
+7	220	8.09%
+3	217	7.98%
+2	65	2.39%
+1	65	2.39%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1029	37.86%
+5	524	19.28%
+6	273	10.04%
+-1	239	8.79%
+3	237	8.72%
+7	215	7.91%
+2	101	3.72%
+1	100	3.68%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1173	43.16%
+5	409	15.05%
+3	331	12.18%
+-1	257	9.46%
+2	176	6.48%
+6	166	6.11%
+1	158	5.81%
+7	48	1.77%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1090	40.10%
+5	348	12.80%
+3	322	11.85%
+1	287	10.56%
+-1	253	9.31%
+2	244	8.98%
+6	131	4.82%
+7	43	1.58%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1262	46.43%
+5	378	13.91%
+3	285	10.49%
+-1	260	9.57%
+6	176	6.48%
+1	156	5.74%
+2	151	5.56%
+7	50	1.84%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1045	38.45%
+5	548	20.16%
+6	299	11.00%
+-1	249	9.16%
+7	241	8.87%
+3	220	8.09%
+2	67	2.47%
+1	49	1.80%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1042	38.34%
+5	545	20.05%
+6	330	12.14%
+7	257	9.46%
+-1	257	9.46%
+3	197	7.25%
+2	53	1.95%
+1	37	1.36%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1104	40.62%
+5	499	18.36%
+-1	276	10.15%
+6	258	9.49%
+7	249	9.16%
+3	207	7.62%
+2	72	2.65%
+1	53	1.95%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+4	1078	39.66%
+5	429	15.78%
+7	368	13.54%
+-1	256	9.42%
+6	250	9.20%
+3	211	7.76%
+1	66	2.43%
+2	60	2.21%
+
+Cluster 2 Profile:
+Attribute: I think of myself as an environmentally friendly consumer - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1236	39.59%
+6.0	942	30.17%
+5.0	500	16.02%
+4.0	232	7.43%
+3.0	85	2.72%
+1.0	79	2.53%
+2.0	48	1.54%
+
+Attribute: I think of myself as someone who is very concerned with environmental issues - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1277	40.90%
+6.0	853	27.32%
+5.0	445	14.25%
+4.0	228	7.30%
+3.0	119	3.81%
+1.0	115	3.68%
+2.0	85	2.72%
+
+Attribute: Acting environmentally-friendly is an important part of who I am - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1267	40.58%
+6.0	870	27.87%
+5.0	453	14.51%
+4.0	215	6.89%
+1.0	119	3.81%
+3.0	111	3.56%
+2.0	87	2.79%
+
+Attribute: I am the type of person who acts environmentally-friendly - To what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1250	40.04%
+6.0	984	31.52%
+5.0	481	15.41%
+4.0	159	5.09%
+3.0	108	3.46%
+1.0	76	2.43%
+2.0	64	2.05%
+
+Attribute: I do not know what the energy transition is - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+1.0	1356	43.43%
+2.0	480	15.37%
+7.0	364	11.66%
+4.0	286	9.16%
+5.0	221	7.08%
+6.0	218	6.98%
+3.0	197	6.31%
+
+Attribute: I think the energy transition is wrong and I do not want to participate in it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+1.0	1456	46.64%
+4.0	504	16.14%
+2.0	452	14.48%
+7.0	207	6.63%
+3.0	203	6.50%
+5.0	152	4.87%
+6.0	148	4.74%
+
+Attribute: I think the energy transition is a good thing. However, I think myself can contribute little to it - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+4.0	772	24.73%
+6.0	554	17.75%
+5.0	500	16.02%
+7.0	470	15.05%
+1.0	328	10.51%
+3.0	271	8.68%
+2.0	227	7.27%
+
+Attribute: The energy transition is a joint task in which everyone in society, including me, should make a contribution - When you think of your personal contribution to the energy transition, to what extent do you agree with the following statements?
+Category	Count	Percentage
+7.0	1437	46.03%
+6.0	601	19.25%
+4.0	433	13.87%
+5.0	314	10.06%
+1.0	175	5.61%
+3.0	83	2.66%
+2.0	79	2.53%
+
+Attribute: EU parliament / European Commission - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1187	38.02%
+0	581	18.61%
+1	543	17.39%
+-1	464	14.86%
+3	347	11.11%
+
+Attribute: National politicians (members of parliament, ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+0	962	30.81%
+1	751	24.06%
+2	726	23.25%
+-1	525	16.82%
+3	158	5.06%
+
+Attribute: Regional politicians (members of the state parliament, state ministers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	866	27.74%
+0	798	25.56%
+1	710	22.74%
+-1	582	18.64%
+3	166	5.32%
+
+Attribute: Local politicians (members of city council, mayors, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	975	31.23%
+0	656	21.01%
+1	651	20.85%
+-1	620	19.86%
+3	220	7.05%
+
+Attribute: National government agencies - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	891	28.54%
+0	729	23.35%
+1	644	20.63%
+-1	630	20.18%
+3	228	7.30%
+
+Attribute: Judiciary / legal system - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	962	30.81%
+0	627	20.08%
+-1	605	19.38%
+1	547	17.52%
+3	381	12.20%
+
+Attribute: Scientists - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1389	44.49%
+3	1016	32.54%
+-1	348	11.15%
+0	197	6.31%
+1	172	5.51%
+
+Attribute: Industry - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1010	32.35%
+-1	799	25.59%
+1	613	19.63%
+0	468	14.99%
+3	232	7.43%
+
+Attribute: Public media (TV, radio, newspapers, etc.) - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	831	26.62%
+0	776	24.86%
+1	654	20.95%
+-1	647	20.72%
+3	214	6.85%
+
+Attribute: Private households / citizens - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+2	1336	42.79%
+-1	886	28.38%
+1	348	11.15%
+3	338	10.83%
+0	214	6.85%
+
+Attribute: Energy providers - In how far do you trust the following groups and institutions regarding decisions on the energy transition?
+Category	Count	Percentage
+-1	814	26.07%
+2	754	24.15%
+1	711	22.77%
+0	671	21.49%
+3	172	5.51%
+
+Attribute: Unplug electronic devices that are not being used - How often do you perform the following activities?
+Category	Count	Percentage
+4	1552	49.71%
+3	820	26.27%
+2	317	10.15%
+1	246	7.88%
+0	167	5.35%
+-1	20	0.64%
+
+Attribute: Actively search for products that are more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+4	1453	46.54%
+3	914	29.28%
+2	442	14.16%
+1	161	5.16%
+0	131	4.20%
+-1	21	0.67%
+
+Attribute: Turn off all lights before leaving a room - How often do you perform the following activities?
+Category	Count	Percentage
+4	2539	81.33%
+3	399	12.78%
+2	69	2.21%
+1	49	1.57%
+0	46	1.47%
+-1	20	0.64%
+
+Attribute: Encourage friends or family to be more energy efficient - How often do you perform the following activities?
+Category	Count	Percentage
+4	1394	44.65%
+3	698	22.36%
+2	454	14.54%
+0	300	9.61%
+1	207	6.63%
+-1	69	2.21%
+
+Attribute: Consciously participate in carpooling - How often do you perform the following activities?
+Category	Count	Percentage
+0	1116	35.75%
+4	599	19.19%
+2	443	14.19%
+3	415	13.29%
+1	395	12.65%
+-1	154	4.93%
+
+Attribute: Consciously choose to travel without a car (e.g., walk, bike, public transport, etc.) - How often do you perform the following activities?
+Category	Count	Percentage
+4	1123	35.97%
+3	764	24.47%
+2	508	16.27%
+0	372	11.92%
+1	305	9.77%
+-1	50	1.60%
+
+Attribute: Facebook - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1687	54.04%
+0	926	29.66%
+2	509	16.30%
+
+Attribute: Instagram - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	1704	54.58%
+1	1163	37.25%
+2	255	8.17%
+
+Attribute: Twitter - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2077	66.53%
+1	794	25.43%
+2	251	8.04%
+
+Attribute: YouTube - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+1	1570	50.29%
+0	966	30.94%
+2	586	18.77%
+
+Attribute: TikTok - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2316	74.18%
+1	633	20.28%
+2	173	5.54%
+
+Attribute: LinkedIn - Please select the option that best describes your use of social media channels and energy information.
+Category	Count	Percentage
+0	2148	68.80%
+1	779	24.95%
+2	195	6.25%
+
+Attribute: Understanding my monthly electricity consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	998	31.97%
+7	582	18.64%
+2	370	11.85%
+6	358	11.47%
+4	255	8.17%
+5	243	7.78%
+3	222	7.11%
+-1	94	3.01%
+
+Attribute: Understanding my monthly heating and/or cooling consumption - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	898	28.76%
+7	559	17.91%
+6	397	12.72%
+2	347	11.11%
+4	300	9.61%
+5	248	7.94%
+3	222	7.11%
+-1	151	4.84%
+
+Attribute: Knowing how much I spend in energy - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+1	1080	34.59%
+7	553	17.71%
+2	403	12.91%
+6	319	10.22%
+4	264	8.46%
+5	213	6.82%
+3	204	6.53%
+-1	86	2.75%
+
+Attribute: Knowing the share of renewable energy and fossil fuel-based energy that I consume - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+7	819	26.23%
+1	535	17.14%
+6	413	13.23%
+-1	356	11.40%
+4	342	10.95%
+5	252	8.07%
+2	220	7.05%
+3	185	5.93%
+
+Attribute: Implementing green energy solutions, such as PV panels and air-source or ground-source heat pumps, at home - How complex do you find (1 = not very complex, 7 = extremely complex)...
+Category	Count	Percentage
+7	863	27.64%
+1	485	15.53%
+6	420	13.45%
+-1	373	11.95%
+4	331	10.60%
+5	255	8.17%
+2	228	7.30%
+3	167	5.35%
+
+Attribute: Energy efficiency and conservation isn’t that important to me - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	2001	64.09%
+7	382	12.24%
+2	272	8.71%
+6	107	3.43%
+4	106	3.40%
+3	96	3.07%
+-1	80	2.56%
+5	78	2.50%
+
+Attribute: I’m too busy to be concerned with my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1986	63.61%
+2	307	9.83%
+7	259	8.30%
+4	129	4.13%
+3	128	4.10%
+6	126	4.04%
+5	109	3.49%
+-1	78	2.50%
+
+Attribute: It would be too much of an inconvenience to my lifestyle to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1643	52.63%
+2	414	13.26%
+7	278	8.90%
+3	215	6.89%
+4	189	6.05%
+6	167	5.35%
+5	140	4.48%
+-1	76	2.43%
+
+Attribute: When home, I take actions to conserve energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2049	65.63%
+6	448	14.35%
+1	167	5.35%
+5	163	5.22%
+-1	99	3.17%
+4	89	2.85%
+2	54	1.73%
+3	53	1.70%
+
+Attribute: There is very little I can do personally to conserve energy in my home - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1079	34.56%
+2	475	15.21%
+7	455	14.57%
+4	299	9.58%
+6	277	8.87%
+3	255	8.17%
+5	200	6.41%
+-1	82	2.63%
+
+Attribute: My efforts to conserve energy will have a positive impact on the environment - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1460	46.76%
+6	509	16.30%
+5	350	11.21%
+4	255	8.17%
+1	234	7.50%
+-1	117	3.75%
+2	100	3.20%
+3	97	3.11%
+
+Attribute: I am not willing to conserve energy at home if that comes at any cost to my comfort - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+1	1576	50.48%
+2	428	13.71%
+7	300	9.61%
+3	236	7.56%
+4	197	6.31%
+6	175	5.61%
+5	134	4.29%
+-1	76	2.43%
+
+Attribute: Energy conservation and efficiency are very common topics of conversation among my family and friends - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	866	27.74%
+6	546	17.49%
+4	472	15.12%
+1	398	12.75%
+5	352	11.27%
+3	208	6.66%
+2	184	5.89%
+-1	96	3.07%
+
+Attribute: Energy efficiency is vital to my country’s economy  - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1657	53.07%
+6	549	17.58%
+5	263	8.42%
+4	212	6.79%
+1	158	5.06%
+-1	140	4.48%
+2	73	2.34%
+3	70	2.24%
+
+Attribute: I have a moral obligation to reduce my energy usage - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1682	53.88%
+6	494	15.82%
+1	269	8.62%
+5	244	7.82%
+4	166	5.32%
+-1	115	3.68%
+3	76	2.43%
+2	76	2.43%
+
+Attribute: I am willing to compromise with those whose views on energy are very different from mine - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	764	24.47%
+4	573	18.35%
+6	524	16.78%
+5	367	11.76%
+1	325	10.41%
+-1	196	6.28%
+3	188	6.02%
+2	185	5.93%
+
+Attribute: Reducing my energy consumption will have a strong, positive impact on my personal finances - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1436	46.00%
+6	500	16.02%
+5	352	11.27%
+4	266	8.52%
+1	212	6.79%
+3	127	4.07%
+-1	115	3.68%
+2	114	3.65%
+
+Attribute: We need to develop more ways of producing renewable energy, even if that means energy will cost more - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1217	38.98%
+6	480	15.37%
+5	376	12.04%
+1	335	10.73%
+4	335	10.73%
+-1	133	4.26%
+2	127	4.07%
+3	119	3.81%
+
+Attribute: The government has a strong role to play in our nation’s energy efficiency and conservation policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1993	63.84%
+6	528	16.91%
+5	197	6.31%
+-1	116	3.72%
+1	110	3.52%
+4	98	3.14%
+3	45	1.44%
+2	35	1.12%
+
+Attribute: Climate change is a vital issue that must be addressed - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2134	68.35%
+6	336	10.76%
+5	165	5.29%
+1	161	5.16%
+4	119	3.81%
+-1	95	3.04%
+3	61	1.95%
+2	51	1.63%
+
+Attribute: I frequently stay up-to-date on local and national energy issues - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1013	32.45%
+6	658	21.08%
+5	493	15.79%
+4	370	11.85%
+1	196	6.28%
+3	160	5.12%
+2	127	4.07%
+-1	105	3.36%
+
+Attribute: I believe I have a voice in helping to impact energy policies - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	720	23.06%
+1	593	18.99%
+6	453	14.51%
+4	385	12.33%
+5	369	11.82%
+2	253	8.10%
+3	204	6.53%
+-1	145	4.64%
+
+Attribute: Clean energy is more important than reliable and affordable energy - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1047	33.54%
+6	567	18.16%
+4	446	14.29%
+5	329	10.54%
+1	298	9.55%
+-1	168	5.38%
+3	147	4.71%
+2	120	3.84%
+
+Attribute: My country needs to invest more money and effort into becoming energy independent as soon as possible - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2132	68.29%
+6	444	14.22%
+5	152	4.87%
+-1	118	3.78%
+1	102	3.27%
+4	92	2.95%
+3	52	1.67%
+2	30	0.96%
+
+Attribute: Becoming an energy independent country is vital to our economic success and national security - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	2131	68.26%
+6	428	13.71%
+5	180	5.77%
+-1	113	3.62%
+4	107	3.43%
+1	98	3.14%
+3	35	1.12%
+2	30	0.96%
+
+Attribute: The EU should be focused on leveraging all energy sources (oil, gas, coal, and renewables) - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1491	47.76%
+6	390	12.49%
+4	297	9.51%
+5	280	8.97%
+1	225	7.21%
+-1	154	4.93%
+3	144	4.61%
+2	141	4.52%
+
+Attribute: Lower income people should not bear the cost of the energy transition - Please indicate the degree to which you disagree or agree with the following statements.
+Category	Count	Percentage
+7	1446	46.32%
+6	410	13.13%
+4	346	11.08%
+5	284	9.10%
+1	211	6.76%
+3	160	5.12%
+-1	139	4.45%
+2	126	4.04%
+
